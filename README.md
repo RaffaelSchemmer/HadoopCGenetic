@@ -1,8 +1,7 @@
 Hadoop C for DNA Sequencing
 ===========================
 
-- Instale o Haodop seguindo os tutoriais do white book.
-
+Instale o Haodop seguindo os tutoriais do white book.
 Adaptação do ambiente Hadoop para compilação C++ (2 passos)
 
 [1] Instalação das libs (apt-get)
